@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Test Repo
+This is my first project on GitHub... yeah!
